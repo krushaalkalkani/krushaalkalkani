@@ -46,6 +46,9 @@
   </a>
 </div>
 
+
+<div align="center">
+  <h2> Leetcode </h2>
 <div align="center">
   <!-- Add your LeetCode badge here -->
   <img src="https://img.shields.io/badge/LeetCode-username-9cf?logo=leetcode" alt="LeetCode">

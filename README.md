@@ -5,12 +5,19 @@
 
 <div align="left">
   <h2>🔗 Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/krushalkalkani/">
+  <a href="https://www.linkedin.com/in/krushaalkalkani/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://krushaalkalkani.github.io/Krushal-Kalkani-Online-Resume/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio">
   </a>
+</div>
+<div align="left">
+  <h2> Leetcode </h2>
+  <div align="left">
+    <!-- Add your LeetCode badge here -->
+    <img src="https://img.shields.io/badge/LeetCode-krushaal2206-9cf?logo=leetcode" alt="LeetCode">
+  </div>
 </div>
 
 <div align="left">
@@ -30,14 +37,6 @@
   <a href="https://github.com/yourusername/project1">Project 1</a>
   <a href="https://github.com/yourusername/project2">Project 2</a>
   <a href="https://github.com/yourusername/project3">Project 3</a>
-</div>
-
-<div align="left">
-  <h2> Leetcode </h2>
-  <div align="center">
-    <!-- Add your LeetCode badge here -->
-    <img src="https://img.shields.io/badge/LeetCode-username-9cf?logo=leetcode" alt="LeetCode">
-  </div>
 </div>
 
 <div align="left">

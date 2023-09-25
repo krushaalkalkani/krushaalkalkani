@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**krushaalkalkani/krushaalkalkani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on odoo, an open-source business app covering all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.
 - 🌱 I’m currently learning DSA!
 - 👯 I’m looking to collaborate on the Python Project.

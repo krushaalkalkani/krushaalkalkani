@@ -16,7 +16,9 @@
   <h2> Leetcode </h2>
   <div align="left">
     <!-- Add your LeetCode badge here -->
-    <img src="https://img.shields.io/badge/LeetCode-krushaal2206-9cf?logo=leetcode" alt="LeetCode">
+    <a href=" https://leetcode.com/krushaal2206/">
+      <img src="https://img.shields.io/badge/LeetCode-krushaal2206-9cf?logo=leetcode" alt="LeetCode">
+    </a>
   </div>
 </div>
 

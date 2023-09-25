@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <h1>Hello, I'm Krushal Kalkani 👋</h1>
   <p>I'm passionate about learning new technology. I love coding and building useful projects.</p>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🔗 Connect with Me</h2>
   <a href="https://www.linkedin.com/in/krushalkalkani/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>💼 Skills</h2>
   <p>
     <strong>Programming Languages:</strong> Python, JavaScript, Java<br>
@@ -24,7 +24,7 @@
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🚀 Projects</h2>
   <p>Here are some projects I'm proud of:</p>
   <a href="https://github.com/yourusername/project1">Project 1</a>
@@ -32,7 +32,7 @@
   <a href="https://github.com/yourusername/project3">Project 3</a>
 </div>
 
-<div align="center">
+<div align="left">
   <h2> Leetcode </h2>
   <div align="center">
     <!-- Add your LeetCode badge here -->
@@ -40,7 +40,7 @@
   </div>
 </div>
 
-<div align="center">
+<div align="left">
   <h2>📈 GitHub Stats</h2>
   <div align="center">
     <!-- Add your GitHub Stats card here -->

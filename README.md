@@ -47,25 +47,8 @@
 </div>
 
 <div align="center">
-  <h2>📚 Latest Blog Posts</h2>
-
-  <p>
-    <a href="https://yourblog.com/post1">
-      Blog Post 1: Summary of your latest blog post.
-    </a>
-  </p>
-
-  <p>
-    <a href="https://yourblog.com/post2">
-      Blog Post 2: Summary of your second latest blog post.
-    </a>
-  </p>
-
-  <p>
-    <a href="https://yourblog.com/post3">
-      Blog Post 3: Summary of your third latest blog post.
-    </a>
-  </p>
+  <!-- Add your LeetCode badge here -->
+  <img src="https://img.shields.io/badge/LeetCode-username-9cf?logo=leetcode" alt="LeetCode">
 </div>
 
 <div align="center">

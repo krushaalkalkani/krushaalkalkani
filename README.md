@@ -1,50 +1,46 @@
-<div align="left">
-  <h1>Hello, I'm Krushal Kalkani 👋</h1>
-  <p>I'm passionate about learning new technology. I love coding and building useful projects.</p>
-</div>
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Krushal Kalkani</h1>
 
-<div align="left">
-  <h2>🔗 Connect with Me</h2>
-  <a href="https://www.linkedin.com/in/krushaalkalkani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-  <a href="https://krushaalkalkani.github.io/Krushal-Kalkani-Online-Resume/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio">
-  </a>
-</div>
-<div align="left">
-  <h2> Leetcode </h2>
-  <div align="left">
-    <!-- Add your LeetCode badge here -->
-    <a href=" https://leetcode.com/krushaal2206/">
-      <img src="https://img.shields.io/badge/LeetCode-krushaal2206-9cf?logo=leetcode" alt="LeetCode">
+### :man_technologist: About Me 
+- 👩🏻‍💻 Pronouns: He/Him
+- 💼 I’m currently working as a <strong>Odoo </strong> at [BRAINVIRE](brainvire.com).
+<!--- - 📋 I've previously worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org).--->
+- 🎒 I've done almost 6-7 internships in frontend primarily.
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to create a <a href="https://www.youtube.com/watch?v=G4Y9N1Z-IUE&t=103s&ab_channel=AccioJob">Swiggy Clone</a>.
+- 🧭 I love exploring and working both in frontend and backend.
+- 🎭 I love speaking at events and connecting with people.
+- 📫 How to reach me: Check social links below.
+
+### :hammer_and_wrench: Languages and Tools 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>  
+
+### :fire: Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)  
+
+### 📈 Github Stats (Amongst top 50%)
+![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=ghoshsuman845&show_icons=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshsuman845&layout=compact&langs_count=4)
+
+### :coffee: Hit Me Up Here
+<p align="center">
+	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-  </div>
-</div>
-
-<div align="left">
-  <h2>💼 Skills</h2>
-  <p>
-    <strong>Programming Languages:</strong> Python, JavaScript, Java<br>
-    <strong>Web Development:</strong> HTML, CSS, React, Node.js<br>
-    <strong>Database:</strong> SQL, MongoDB<br>
-    <strong>Tools:</strong> Git, VSCode, Docker<br>
-    <strong>Machine Learning:</strong> TensorFlow, Scikit-Learn
-  </p>
-</div>
-
-<div align="left">
-  <h2>🚀 Projects</h2>
-  <p>Here are some projects I'm proud of:</p>
-  <a href="https://github.com/yourusername/project1">Project 1</a>
-  <a href="https://github.com/yourusername/project2">Project 2</a>
-  <a href="https://github.com/yourusername/project3">Project 3</a>
-</div>
-
-<div align="left">
-  <h2>📈 GitHub Stats</h2>
-  <div align="center">
-    <!-- Add your GitHub Stats card here -->
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
-  </div>
-</div>
+    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
+        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ghoshsuman0129/">
+        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/suman.ghosts/">
+        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
+    </a>
+</p>

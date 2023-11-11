@@ -3,10 +3,10 @@
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Python Odoo Developer</strong> at <a href="https://www.brainvire.com/">Brainvire Infotech PVT LTD</a>.
-- 🎒 I've done almost my internships in Web-Development and Python.
+- 🎒 I've done almost my internships in web development and Python.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check the social links below.
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
@@ -27,16 +27,16 @@
 
 ### :coffee: Hit Me Up Here
 <p align="center">
-	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
+	<a href="https://github.com/krushaalkalkani" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
+    <a href="https://github.com/krushaalkalkani/krushaalkalkani" alt="Github Stars" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/ghoshsuman0129/">
+    <a href="https://www.linkedin.com/in/krushaalkalkani/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/suman.ghosts/">
+    <a href="https://www.instagram.com/krushaalkalkani/">
         <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
 </p>

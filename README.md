@@ -19,11 +19,11 @@
 </div>  
 
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krushaalkalkani)](https://git.io/streak-stats)  
 
 ### 📈 Github Stats (Amongst top 50%)
-![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=ghoshsuman845&show_icons=true&hide=issues,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshsuman845&layout=compact&langs_count=4)
+![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=krushaalkalkani&show_icons=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushaalkalkani&layout=compact&langs_count=4)
 
 ### :coffee: Hit Me Up Here
 <p align="center">

@@ -2,7 +2,7 @@
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Odoo </strong> at [BRAINVIRE](brainvire.com).
+- 💼 I’m currently working as a <strong>Python Odoo Developer</strong> at [BRAINVIRE](brainvire.com)
 <!--- - 📋 I've previously worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org).--->
 - 🎒 I've done almost 6-7 internships in frontend primarily.
 - 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to create a <a href="https://www.youtube.com/watch?v=G4Y9N1Z-IUE&t=103s&ab_channel=AccioJob">Swiggy Clone</a>.

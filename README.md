@@ -2,10 +2,9 @@
 
 ### :man_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Python Odoo Developer</strong> at [BRAINVIRE](brainvire.com)
+- 💼 I’m currently working as a <strong>Python Odoo Developer</strong> at <a href="https://www.brainvire.com/">Brainvire Infotech PVT LTD</a>.
 <!--- - 📋 I've previously worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org).--->
-- 🎒 I've done almost 6-7 internships in frontend primarily.
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to create a <a href="https://www.youtube.com/watch?v=G4Y9N1Z-IUE&t=103s&ab_channel=AccioJob">Swiggy Clone</a>.
+- 🎒 I've done almost my internships in Web-Development and Python.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
@@ -20,6 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" />
 </div>  
 
 ### :fire: Streaks 

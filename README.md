@@ -19,7 +19,7 @@
 </div>  
 
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krushaalkalkani)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=krushaalkalkani&theme=dark)](https://git.io/streak-stats)  
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=krushaalkalkani&show_icons=true&hide=issues,prs)

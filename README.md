@@ -20,10 +20,10 @@
 
 ### :fire: Streaks 
 [![GitHub Streak](https://streak-stats.demolab.com?user=krushaalkalkani&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushaalkalkani&layout=compact&langs_count=4)
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=krushaalkalkani&show_icons=true&hide=issues,prs&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushaalkalkani&layout=compact&langs_count=4)
 
 ### :coffee: Hit Me Up Here
 <p align="center">

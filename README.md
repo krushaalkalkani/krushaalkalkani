@@ -23,6 +23,8 @@
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=krushaalkalkani&show_icons=true&hide=issues,prs&theme=dark)
+
+### 📈 I more work on! 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushaalkalkani&layout=compact&langs_count=4)
 
 ### :coffee: Hit Me Up Here

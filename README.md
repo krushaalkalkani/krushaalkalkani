@@ -1,12 +1,13 @@
-<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Krushal Kalkani</h1>
 	
 ### :man_technologist: About Me 
-👩🏻‍💻 Pronouns: He/Him
-💼 Previously worked as a <strong>Python Odoo Developer</strong> at <a href="https://www.brainvire.com/">Brainvire Infotech PVT LTD</a>.
-🎒 Experienced in web development and Python through internships.
-🧭 Passionate about frontend and backend development.
-🎭 Enjoys speaking at events and connecting with people.
-📫 How to reach me: Check the social links below.
+
+- 👩🏻‍💻 Pronouns: He/Him
+- 💼 Previously worked as a <strong>Python Odoo Developer</strong> at <a href="https://www.brainvire.com/">Brainvire Infotech PVT LTD</a>.
+- 🎒 Experienced in web development and Python through internships.
+- 🧭 Passionate about frontend and backend development.
+- 🎭 Enjoys speaking at events and connecting with people.
+- 📫 How to reach me: Check the social links below.
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>

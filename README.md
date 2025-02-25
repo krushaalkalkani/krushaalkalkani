@@ -1,44 +1,38 @@
-<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Krushal Kalkani</h1>
-	
-### :man_technologist: About Me 
+# 💫 About Me:
+🔭 **I’m currently working on:**  
+Enhancing AI-driven applications and building innovative MERN stack projects.<br><br>👯 **I’m looking to collaborate on:**  
+AI and full-stack development projects.<br><br>🌱 **I’m currently learning:**  
+Advanced machine learning techniques, NLP, and building intelligent chatbots.<br><br>💬 **Ask me about:**  
+Python, JavaScript, React, Node.js, MERN stack, and data science.<br><br>⚡ **Fun fact:**  
+I enjoy exploring new technologies and sharing my knowledge with others.
 
-- 👩🏻‍💻 Pronouns: He/Him
-- 💼 Previously worked as a <strong>Python Odoo Developer</strong> at <a href="https://www.brainvire.com/">Brainvire Infotech PVT LTD</a>.
-- 🎒 Experienced in web development and Python through internships.
-- 🧭 Passionate about frontend and backend development.
-- 🎭 Enjoys speaking at events and connecting with people.
-- 📫 How to reach me: Check the social links below.
+## 🌐 Socials:
+[![x](https://img.shields.io/badge/-%2312100E.svg?logo=x&logoColor=white)](https://x.com/krushaalkalkani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krushal-kalkani) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/krushal-kalkani)
 
-### :hammer_and_wrench: Languages and Tools 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="Jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" />
-</div>  
+# 💻 Tech Stack:
 
-### :fire: Streaks 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krushaalkalkani&theme=dark)](https://git.io/streak-stats)
+### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
-### 📈 Github Stats (Amongst top 50%)
-![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=krushaalkalkani&show_icons=true&hide=issues,prs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushaalkalkani&layout=compact&langs_count=4)
+### Web Technologies:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-%230084CB.svg?style=for-the-badge&logo=javascript&logoColor=white)  
+### Frameworks/Libraries:
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+### Version Control:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)  
+### Tools/IDEs:
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-### :coffee: Hit Me Up Here
-<p align="center">
-	<a href="https://github.com/krushaalkalkani" alt="Github" title="github">
-       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
-    </a>
-    <a href="https://github.com/krushaalkalkani/krushaalkalkani" alt="Github Stars" title="Star Mark Repo">
-        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
-    </a>
-    <a href="https://www.linkedin.com/in/krushaalkalkani/">
-        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
-    </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krushal-kalkani&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=krushal-kalkani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krushal-kalkani&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=krushal-kalkani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<!---
+[![](https://visitcount.itsvg.in/api?id=krushal-kalkani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

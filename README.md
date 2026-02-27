@@ -25,7 +25,7 @@
 
 ### 💫 About Me
 
-🔭 **Working On** &nbsp;—&nbsp; Building real-world AI/ML projects, strengthening Python skills, and sharing my journey in AI/ML, fitness, and personal growth through content.
+🔭 **Working On** &nbsp;-&nbsp; Building real-world AI/ML projects, strengthening Python skills, and sharing my journey in AI/ML, fitness, and personal growth through content.
 
 👯 **Collaborating On** &nbsp;—&nbsp; AI/ML, deep learning, data-driven applications, and meaningful software engineering projects.
 
@@ -42,7 +42,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=krushaalkalkani&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=888888&dates=888888" height="155"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushaalkalkani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&text_color=888888&langs_count=6" height="155"/>
+ 
 </div>
 
 <br/>

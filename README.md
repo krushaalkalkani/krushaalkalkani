@@ -5,16 +5,16 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krushal-kalkani/">
+  <a target="_blank" href="https://www.linkedin.com/in/krushal-kalkani/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://x.com/krushalk22">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white"/>
+  <a target="_blank" href="https://x.com/krushalk22">
+    <img target="_blank" src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://www.threads.com/@krushal.kalkani">
+  <a target="_blank" href="https://www.threads.com/@krushal.kalkani">
     <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=flat-square&logo=threads&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://krushalkalkani.com">
+  <a target="_blank" href="https://krushalkalkani.com">
     <img src="https://img.shields.io/badge/Portfolio-%236C63FF.svg?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
 </div>

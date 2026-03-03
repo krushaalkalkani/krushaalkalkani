@@ -17,7 +17,7 @@
 
 ---
 
-### 💫 About Me
+### 💫 About Myself
 
 🔭 **Working On** &nbsp;—&nbsp; Building real-world AI/ML projects, strengthening Python skills, and sharing my journey in AI/ML, fitness, and personal growth through content.
 

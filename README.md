@@ -2,10 +2,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krushalk22)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krushalkalkani.com)
 
-</div>
-
-<br/>
-
 ---
 
 ### 💫 About Me
@@ -23,13 +19,3 @@
 ---
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krushaalkalkani&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=888888&dates=888888" height="155"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
-</div>

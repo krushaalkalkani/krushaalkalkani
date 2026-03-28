@@ -9,6 +9,7 @@
 🔭 **Working On** &nbsp;—&nbsp; Building real-world AI/ML projects, strengthening Python skills, and sharing my journey in AI/ML, fitness, and personal growth through content.
 
 👯 **Collaborating On** &nbsp;—&nbsp; AI/ML, deep learning, data-driven applications, and meaningful software engineering projects.
+- 🚀 [Claude Usage Tracker]([https://github.com/yourusername/openclaw](https://github.com/krushaalkalkani/claude-usage-tracker) - Help your productivity to knowing usage on menubar and in seprate app.
 
 🌱 **Learning** &nbsp;—&nbsp; Machine learning, deep learning, data preprocessing, model evaluation, and DSA for problem solving and interviews.
 

@@ -10,6 +10,8 @@
 
 👯 **Collaborating On** &nbsp;—&nbsp; AI/ML, deep learning, data-driven applications, and meaningful software engineering projects.
 - 🚀 **[ClaudeUsageTracker](https://github.com/krushaalkalkani/claude-usage-tracker)** - Helps you track Claude usage from the menu bar and a separate web app.
+- 🫀 **[Heart Disease Prediction Web App](https://github.com/krushaalkalkani/heart-disease-predictor)** - Real-time heart attack risk prediction.
+- 📝 **[Resume Analyzer](https://github.com/krushaalkalkani/resume-analyzer)** - Real-time category prediction and skill gap recommendations.
 
 🌱 **Learning** &nbsp;—&nbsp; Machine learning, deep learning, data preprocessing, model evaluation, and DSA for problem solving and interviews.
 

@@ -10,6 +10,7 @@
 
 🚀 **Featured Projects**
 
+- ⚙️ **Kuku Stack** — Solo-builder engineering workflow as agent skills: read, plan, design, build, verify, ship, and learn.
 - 🔬 **[Claude Pulse](https://github.com/krushaalkalkani/claude-pulse)** — Ongoing research project that brings Anthropic and Claude research updates together in one place.
 - 🤖 **[Research Agent](https://github.com/krushaalkalkani/research-agent)** — Agentic AI project built to automate and streamline research workflows.
 - 🚌 **[TransitIQ Lite](https://github.com/krushaalkalkani/transitiq-lite)** — Making transportation easier for students and schools.
